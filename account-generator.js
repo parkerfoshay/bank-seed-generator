@@ -5,6 +5,7 @@ async function createData() {
   let dataArray = [];
   let transfersArray = [];
   let numberOfUsers = 50;
+  let numberOfTransfers = 100;
   let getUserInfo = await fetchAPI(
     `https://randomuser.me/api/?results=${numberOfUsers}`
   );
@@ -23,7 +24,7 @@ async function createData() {
     dataArray.push(dataObj);
   }
 
-  for (let i = 0; i < 100; i++) {
+  for (let i = 0; i < numberOfTransfers; i++) {
     let toAccount = Math.floor(Math.random() * (numberOfUsers - 1));
 
     let fromAccount = Math.floor(Math.random() * (numberOfUsers - 1));
@@ -53,12 +54,11 @@ async function createData() {
   }
 
   let dictstring = JSON.stringify(dataArray);
+  let transferString = JSON.stringify(transfersArray);
 
   fs.writeFile("generated-accounts.json", dictstring, function (err, result) {
     if (err) console.log("error", err);
   });
-
-  let transferString = JSON.stringify(transfersArray);
 
   fs.writeFile(
     "generated-transfers.json",
