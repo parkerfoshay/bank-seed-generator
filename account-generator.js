@@ -4,7 +4,7 @@ const fs = require("fs");
 async function createData() {
   let dataArray = [];
   let transfersArray = [];
-  let numberOfUsers = 5;
+  let numberOfUsers = 50;
   let getUserInfo = await fetchAPI(
     `https://randomuser.me/api/?results=${numberOfUsers}`
   );
@@ -23,7 +23,7 @@ async function createData() {
     dataArray.push(dataObj);
   }
 
-  for (let i = 0; i < 25; i++) {
+  for (let i = 0; i < 100; i++) {
     let toAccount = Math.floor(Math.random() * (numberOfUsers - 1));
 
     let fromAccount = Math.floor(Math.random() * (numberOfUsers - 1));
