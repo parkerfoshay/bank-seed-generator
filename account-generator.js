@@ -1,11 +1,12 @@
 const { fetchAPI, accountId, rndAmount, typeOfAccount } = require("./utils");
 const fs = require("fs");
 
+
 async function createData() {
   let dataArray = [];
   let transfersArray = [];
   let numberOfUsers = 50;
-  let numberOfTransfers = 100;
+  let numberOfTransfers = 150;
   let getUserInfo = await fetchAPI(
     `https://randomuser.me/api/?results=${numberOfUsers}`
   );
@@ -13,11 +14,13 @@ async function createData() {
   for (let i = 0; i < numberOfUsers; i++) {
     console.log(`${i + 1}/${numberOfUsers} users created`);
 
+    let balance = rndAmount()
+
     let dataObj = {
       account_id: `MDB${accountId()}`,
       account_holder: `${getUserInfo.results[i].name.first} ${getUserInfo.results[i].name.last}`,
       account_type: typeOfAccount(),
-      balance: rndAmount(),
+      balance: parseFloat(parseFloat(Math.random() * 5000).toFixed(2)),
       transfers_complete: [],
     };
 
@@ -42,12 +45,11 @@ async function createData() {
       transfer_id: `TR${accountId()}`,
       to_account: dataArray[toAccount].account_id,
       from_account: dataArray[fromAccount].account_id,
-      amount: amount,
-      memo: 'Show me the money!',
+      amount: parseFloat(parseFloat(amount).toFixed(2))
     };
 
-    dataArray[toAccount].balance = dataArray[toAccount].balance + amount
-    dataArray[fromAccount].balance = dataArray[fromAccount].balance - amount
+    toAccountBalance = dataArray[toAccount].balance + amount
+    fromAccountBalance = dataArray[fromAccount].balance - amount
     dataArray[toAccount].transfers_complete.push(transferObj.transfer_id);
     dataArray[fromAccount].transfers_complete.push(transferObj.transfer_id);
     transfersArray.push(transferObj);
