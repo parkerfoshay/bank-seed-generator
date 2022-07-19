@@ -1,0 +1,940 @@
+[{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497480"
+  },
+  "account_id": "MDB310054629",
+  "account_holder": "Puja Barbier",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3977.14"
+  },
+  "transfers_complete": []
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497481"
+  },
+  "account_id": "MDB643731035",
+  "account_holder": "Andrea Long",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "424"
+  },
+  "transfers_complete": [
+    "TR223745532",
+    "TR518071954",
+    "TR893259952",
+    "TR573014677",
+    "TR311237819",
+    "TR02081994"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497482"
+  },
+  "account_id": "MDB333829449",
+  "account_holder": "Kate Stone",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4688"
+  },
+  "transfers_complete": [
+    "TR854412948",
+    "TR413308451",
+    "TR328708274",
+    "TR192714918",
+    "TR263422717"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497483"
+  },
+  "account_id": "MDB951086017",
+  "account_holder": "Lillie Murray",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4508.21000000000"
+  },
+  "transfers_complete": [
+    "TR145258460",
+    "TR804717645",
+    "TR784460958",
+    "TR465571137",
+    "TR562656809",
+    "TR201052297",
+    "TR922604241"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497484"
+  },
+  "account_id": "MDB546986470",
+  "account_holder": "Maja Jørgensen",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "4758.63000000000"
+  },
+  "transfers_complete": [
+    "TR723561059",
+    "TR705596990",
+    "TR794275457",
+    "TR322300049",
+    "TR384899694",
+    "TR970669987",
+    "TR661907648",
+    "TR875028986"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497485"
+  },
+  "account_id": "MDB905411541",
+  "account_holder": "Michal Mathieu",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4575.96000000000"
+  },
+  "transfers_complete": [
+    "TR252391282",
+    "TR240521497",
+    "TR707619518",
+    "TR922856679",
+    "TR884411337",
+    "TR956140035"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497486"
+  },
+  "account_id": "MDB534711911",
+  "account_holder": "Vera Viana",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "2652.06000000000"
+  },
+  "transfers_complete": [
+    "TR231504207",
+    "TR698953299",
+    "TR196496993",
+    "TR347020783",
+    "TR972455503",
+    "TR297093626",
+    "TR354389070",
+    "TR713937760"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497487"
+  },
+  "account_id": "MDB829000996",
+  "account_holder": "Kasper Sørensen",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3373.98000000000"
+  },
+  "transfers_complete": [
+    "TR266268604",
+    "TR399880553",
+    "TR277358549",
+    "TR695865388",
+    "TR573014677"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497488"
+  },
+  "account_id": "MDB605641817",
+  "account_holder": "Joshua Steward",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3858.66000000000"
+  },
+  "transfers_complete": [
+    "TR363225188",
+    "TR360542570",
+    "TR618131506",
+    "TR909828790"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497489"
+  },
+  "account_id": "MDB740836066",
+  "account_holder": "Naja Petersen",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "2891.80000000000"
+  },
+  "transfers_complete": [
+    "TR784553031",
+    "TR728134708",
+    "TR396066257"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049748a"
+  },
+  "account_id": "MDB773154309",
+  "account_holder": "Iman Landro",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "2810.67000000000"
+  },
+  "transfers_complete": [
+    "TR701302549",
+    "TR266287079",
+    "TR413308451",
+    "TR960055835",
+    "TR784460958",
+    "TR301170410",
+    "TR754613303",
+    "TR710097503",
+    "TR485029585"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049748b"
+  },
+  "account_id": "MDB659507055",
+  "account_holder": "Jacob Thompson",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3887.53000000000"
+  },
+  "transfers_complete": [
+    "TR806791572",
+    "TR437437431",
+    "TR512378671"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049748c"
+  },
+  "account_id": "MDB343652528",
+  "account_holder": "Marcus Jørgensen",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2522.14000000000"
+  },
+  "transfers_complete": [
+    "TR488315128",
+    "TR655897500",
+    "TR525919031",
+    "TR598541455",
+    "TR593289284",
+    "TR956140035",
+    "TR196688945"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049748d"
+  },
+  "account_id": "MDB981220803",
+  "account_holder": "Noémie Ginnish",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3501.98000000000"
+  },
+  "transfers_complete": [
+    "TR363225188",
+    "TR717427175"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049748e"
+  },
+  "account_id": "MDB106490729",
+  "account_holder": "Raquel Moura",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3980.37000000000"
+  },
+  "transfers_complete": [
+    "TR582489716",
+    "TR772657857",
+    "TR465052001",
+    "TR586833243",
+    "TR284399897",
+    "TR893259952",
+    "TR710097503",
+    "TR762109284",
+    "TR297093626"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049748f"
+  },
+  "account_id": "MDB995762179",
+  "account_holder": "Gonzalo Cortes",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "569.540000000000"
+  },
+  "transfers_complete": [
+    "TR388464562",
+    "TR723561059",
+    "TR794275457",
+    "TR409008493",
+    "TR633655252"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497490"
+  },
+  "account_id": "MDB269695119",
+  "account_holder": "Phuong Olsthoorn",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2718.29000000000"
+  },
+  "transfers_complete": [
+    "TR518071954",
+    "TR767971921",
+    "TR152165907",
+    "TR409008493",
+    "TR977169322",
+    "TR170228745",
+    "TR196688945"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497491"
+  },
+  "account_id": "MDB829751145",
+  "account_holder": "Phyllis Riley",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "4149.73000000000"
+  },
+  "transfers_complete": [
+    "TR449059850",
+    "TR724326209",
+    "TR970669987",
+    "TR320847789",
+    "TR305996046"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497492"
+  },
+  "account_id": "MDB185139970",
+  "account_holder": "Ryan Roy",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3804.02000000000"
+  },
+  "transfers_complete": [
+    "TR126484922",
+    "TR266268604",
+    "TR399880553",
+    "TR660220630",
+    "TR301170410",
+    "TR263516360",
+    "TR972455503",
+    "TR884402901"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497493"
+  },
+  "account_id": "MDB781941755",
+  "account_holder": "Mirko Lemaire",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3219.44000000000"
+  },
+  "transfers_complete": [
+    "TR310559423",
+    "TR432759196",
+    "TR533709159",
+    "TR617907396",
+    "TR560760226",
+    "TR987922948"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497494"
+  },
+  "account_id": "MDB963134500",
+  "account_holder": "Florence Taylor",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2598.57000000000"
+  },
+  "transfers_complete": [
+    "TR652631048",
+    "TR846259280",
+    "TR412957052",
+    "TR519499915",
+    "TR767971921",
+    "TR717427175",
+    "TR263422717"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497495"
+  },
+  "account_id": "MDB727578791",
+  "account_holder": "Adriana Hannisdal",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4840.34000000000"
+  },
+  "transfers_complete": [
+    "TR310559423",
+    "TR252391282",
+    "TR724326209",
+    "TR303652148"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497496"
+  },
+  "account_id": "MDB672307611",
+  "account_holder": "بهار جعفری",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3435.86000000000"
+  },
+  "transfers_complete": [
+    "TR844040782",
+    "TR266287079",
+    "TR438876245",
+    "TR170228745",
+    "TR661907648",
+    "TR391563093"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497497"
+  },
+  "account_id": "MDB955769550",
+  "account_holder": "Addison Shelton",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "1971.89000000000"
+  },
+  "transfers_complete": [
+    "TR628105502",
+    "TR197586149",
+    "TR586833243",
+    "TR284399897",
+    "TR636054729",
+    "TR806791572"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497498"
+  },
+  "account_id": "MDB405111108",
+  "account_holder": "Lily Mccoy",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3655.17000000000"
+  },
+  "transfers_complete": [
+    "TR145258460",
+    "TR401663822",
+    "TR533709159",
+    "TR389450470",
+    "TR958659200",
+    "TR679752211",
+    "TR987922948"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e130497499"
+  },
+  "account_id": "MDB786183140",
+  "account_holder": "Dwayne Allen",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4705.31000000000"
+  },
+  "transfers_complete": [
+    "TR859060098",
+    "TR657500365",
+    "TR328708274",
+    "TR412004424",
+    "TR884411337"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049749a"
+  },
+  "account_id": "MDB731846764",
+  "account_holder": "Erica Fleming",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "1447.24000000000"
+  },
+  "transfers_complete": [
+    "TR874734278",
+    "TR347020783",
+    "TR386990516",
+    "TR485029585"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049749b"
+  },
+  "account_id": "MDB641809724",
+  "account_holder": "Carter Walker",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2718.24000000000"
+  },
+  "transfers_complete": [
+    "TR582489716",
+    "TR164442369",
+    "TR251243341",
+    "TR623268180",
+    "TR698953299",
+    "TR320847789",
+    "TR277358549",
+    "TR386990516",
+    "TR714851157",
+    "TR909828790"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049749c"
+  },
+  "account_id": "MDB267283685",
+  "account_holder": "Julia Magerøy",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4779.05000000000"
+  },
+  "transfers_complete": [
+    "TR636449909",
+    "TR231504207",
+    "TR164442369",
+    "TR922856679"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049749d"
+  },
+  "account_id": "MDB141945501",
+  "account_holder": "Noah Thomsen",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "98.8100000000000"
+  },
+  "transfers_complete": [
+    "TR623850306",
+    "TR623268180",
+    "TR914352039"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049749e"
+  },
+  "account_id": "MDB111454924",
+  "account_holder": "Jack Reynolds",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2088.32000000000"
+  },
+  "transfers_complete": [
+    "TR790897036",
+    "TR844040782",
+    "TR840893222",
+    "TR127246638",
+    "TR530371159",
+    "TR196496993",
+    "TR384899694",
+    "TR931400873",
+    "TR655897500",
+    "TR784339365",
+    "TR354389070"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e13049749f"
+  },
+  "account_id": "MDB483602563",
+  "account_holder": "George Flach",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2855.94000000000"
+  },
+  "transfers_complete": [
+    "TR804717645",
+    "TR389450470",
+    "TR931400873",
+    "TR707619518",
+    "TR305996046",
+    "TR221622617"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a0"
+  },
+  "account_id": "MDB723623628",
+  "account_holder": "Etienne Johnson",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "768.560000000000"
+  },
+  "transfers_complete": [
+    "TR624846987",
+    "TR562656809",
+    "TR201052297"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a1"
+  },
+  "account_id": "MDB441599102",
+  "account_holder": "Ferdinandus Manschot",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "2123.21000000000"
+  },
+  "transfers_complete": [
+    "TR701302549",
+    "TR226678848",
+    "TR612624809",
+    "TR263516360",
+    "TR695865388",
+    "TR908412723",
+    "TR412004424",
+    "TR714851157",
+    "TR450843107"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a2"
+  },
+  "account_id": "MDB190734124",
+  "account_holder": "Torstein Granberg",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3841.74000000000"
+  },
+  "transfers_complete": [
+    "TR854412948",
+    "TR465052001",
+    "TR728134708",
+    "TR806537605",
+    "TR464853424"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a3"
+  },
+  "account_id": "MDB600314692",
+  "account_holder": "Snezana Richard",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2021.67000000000"
+  },
+  "transfers_complete": [
+    "TR846259280",
+    "TR705596990",
+    "TR874734278",
+    "TR322300049",
+    "TR960055835",
+    "TR530371159",
+    "TR969702980",
+    "TR108536041",
+    "TR593289284",
+    "TR192714918",
+    "TR396066257"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a4"
+  },
+  "account_id": "MDB860108756",
+  "account_holder": "John Marin",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "2074.58000000000"
+  },
+  "transfers_complete": [
+    "TR790897036",
+    "TR794525519",
+    "TR435159640",
+    "TR657500365",
+    "TR360542570",
+    "TR152165907",
+    "TR525919031",
+    "TR512378671"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a5"
+  },
+  "account_id": "MDB963447467",
+  "account_holder": "Jochen Westphal",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "4134.69000000000"
+  },
+  "transfers_complete": [
+    "TR628105502",
+    "TR438340424",
+    "TR223745532",
+    "TR729044189",
+    "TR412957052",
+    "TR519499915",
+    "TR914352039",
+    "TR977169322",
+    "TR437437431"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a6"
+  },
+  "account_id": "MDB584129186",
+  "account_holder": "Armin Folland",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3453.76000000000"
+  },
+  "transfers_complete": [
+    "TR388464562",
+    "TR492599144",
+    "TR772657857",
+    "TR652631048",
+    "TR784553031",
+    "TR438340424",
+    "TR670287839",
+    "TR449059850",
+    "TR624846987",
+    "TR303652148",
+    "TR713937760",
+    "TR633655252",
+    "TR450843107"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a7"
+  },
+  "account_id": "MDB156014571",
+  "account_holder": "Adelen Værnes",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "1519.62000000000"
+  },
+  "transfers_complete": [
+    "TR670287839",
+    "TR679752211",
+    "TR854525844",
+    "TR762109284"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a8"
+  },
+  "account_id": "MDB190468049",
+  "account_holder": "Louis Lewis",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "4155.67000000000"
+  },
+  "transfers_complete": [
+    "TR859060098",
+    "TR729044189",
+    "TR126484922",
+    "TR617907396",
+    "TR598541455"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974a9"
+  },
+  "account_id": "MDB870205338",
+  "account_holder": "Elfi Gerling",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "1907.80000000000"
+  },
+  "transfers_complete": [
+    "TR432759196",
+    "TR797654953",
+    "TR391563093",
+    "TR464853424",
+    "TR922604241"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974aa"
+  },
+  "account_id": "MDB526002521",
+  "account_holder": "Hans Jürgen Krahn",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4271.84000000000"
+  },
+  "transfers_complete": [
+    "TR806537605"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974ab"
+  },
+  "account_id": "MDB835466518",
+  "account_holder": "Ellinor Moss",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "3467.69000000000"
+  },
+  "transfers_complete": [
+    "TR492599144",
+    "TR958659200",
+    "TR369704039",
+    "TR465571137",
+    "TR884402901",
+    "TR221622617"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974ac"
+  },
+  "account_id": "MDB565900210",
+  "account_holder": "Nurdan Candan",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "2360.06000000000"
+  },
+  "transfers_complete": [
+    "TR240521497",
+    "TR623850306",
+    "TR660220630",
+    "TR636054729",
+    "TR908412723",
+    "TR610171273",
+    "TR875028986"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974ad"
+  },
+  "account_id": "MDB574189300",
+  "account_holder": "Coşkun Demirbaş",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "4690.87000000000"
+  },
+  "transfers_complete": [
+    "TR488315128",
+    "TR401663822",
+    "TR797654953",
+    "TR251243341",
+    "TR226678848",
+    "TR328922762",
+    "TR733557686",
+    "TR754613303"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974ae"
+  },
+  "account_id": "MDB747999394",
+  "account_holder": "Amarílio Silveira",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "578.470000000000"
+  },
+  "transfers_complete": [
+    "TR636449909",
+    "TR369704039",
+    "TR618131506",
+    "TR854525844",
+    "TR784339365",
+    "TR610171273"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974af"
+  },
+  "account_id": "MDB358114221",
+  "account_holder": "Carlos Andre",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3092.60000000000"
+  },
+  "transfers_complete": [
+    "TR794525519",
+    "TR840893222",
+    "TR435159640",
+    "TR733436442",
+    "TR969702980",
+    "TR733557686",
+    "TR108536041",
+    "TR438876245",
+    "TR311237819"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974b0"
+  },
+  "account_id": "MDB361428043",
+  "account_holder": "Ruben Brun",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "1225.93000000000"
+  },
+  "transfers_complete": [
+    "TR197586149",
+    "TR127246638",
+    "TR328922762",
+    "TR612624809",
+    "TR733436442",
+    "TR560760226"
+  ]
+},{
+  "_id": {
+    "$oid": "62d6e04ecab6d8e1304974b1"
+  },
+  "account_id": "MDB919841472",
+  "account_holder": "Donna Wood",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "524.810000000000"
+  },
+  "transfers_complete": []
+},{
+  "_id": {
+    "$oid": "62d6e45da20a2ef9b72d86cc"
+  },
+  "account_id": "MDB310052894",
+  "account_holder": "Cole Parker",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "2194.85000000000"
+  }
+},{
+  "_id": {
+    "$oid": "62d6ea2310399b748789e2fc"
+  },
+  "account_id": "MDB310052894",
+  "account_holder": "Cole Parker",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "1994.85000000000"
+  }
+},{
+  "_id": {
+    "$oid": "62d6ea2310399b748789e2fd"
+  },
+  "account_id": "MDB310051017",
+  "account_holder": "Lucy Lowell",
+  "account_type": "checking",
+  "balance": {
+    "$numberDecimal": "185"
+  }
+},{
+  "_id": {
+    "$oid": "62d6ea2310399b748789e2fe"
+  },
+  "account_id": "MDB310050509",
+  "account_holder": "Jean Georgio",
+  "account_type": "savings",
+  "balance": {
+    "$numberDecimal": "3478"
+  }
+}]
